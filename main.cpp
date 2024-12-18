@@ -22,4 +22,6 @@ int main() {
 	cout << random << endl;
 
     return 0;
+
+// you need time because if you don't use time, it will always be the same random number
 }
